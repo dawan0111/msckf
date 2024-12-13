@@ -10,7 +10,7 @@
 #include <cv_bridge/cv_bridge.h>
 #include <image_transport/image_transport.h>
 #include <nodelet/nodelet.h>
-#include <opencv2/opencv.hpp>
+#include <opencv/cv.hpp>
 #include <opencv2/xfeatures2d/nonfree.hpp>
 #include <ros/ros.h>
 #include <sensor_msgs/CameraInfo.h>
